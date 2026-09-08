@@ -74,6 +74,7 @@ XRスタートアップにて、空間UIコンセプト設計、UX・UI設計、
 - 3Dプレゼンテーションアプリ「Immersive Pitch」シリーズ
     - NOT A HOTEL、日テレ、TBS、名古屋市+Canon 向けにデザイン・実装
 - Apple Vision Pro + 触覚フィードバックデバイス連携アプリのデザイン・一部実装
+- MESON, inc. コーポレートサイトのWebデザイン・実装・CG
 - 使用技術
     - Unity
     - SwiftUI / RealityKit
@@ -100,7 +101,6 @@ Webサイト設計・実装（ECサイト、特設サイト）、CG映像制作�
 
 - NHK「スイッチインタビュー」オープニング映像のデザイン・CG制作
 - 武蔵野美術大学 通信教育課程入学案内 表紙CG（2021〜2023年度版、3年継続受注）
-- MESON, inc. コーポレートサイトのWebデザイン・実装・CG
 - 音楽関連映像（GOOD LUCK HEIWA + fox capture plan、KAKUBARHYTHM、Latin Quarter 等）
 
 #### Webデザイン・実装
