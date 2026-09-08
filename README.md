@@ -48,7 +48,7 @@ Selected exhibitions: Finalist, NEWVIEW AWARDS 2024 (Shibuya PARCO); Finalist, T
 - [Wantedly](https://wantedly.com/id/sakamotohiroyuki)
 - [X](https://x.com/hiroyukisakam)
 - [Instagram](https://instagram.com/hiroyukisakam)
-- [note](https://note.com/)
+- [note](https://note.com/hiroyukisakam)
 - [GitHub](https://github.com/hiroyukisakamoto)
 
 ## 執筆歴
@@ -82,7 +82,7 @@ XRスタートアップにて、空間UIコンセプト設計、UX・UI設計、
 
 </details>
 
-### 個人事業主 / フリーランス（2021年3月 ~ 現在）
+### 個人事業主（2021年3月 ~ 現在）
 
 <details>
 
