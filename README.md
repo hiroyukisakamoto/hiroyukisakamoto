@@ -74,9 +74,6 @@ XRスタートアップにて、空間UIコンセプト設計、UX・UI設計、
 - 3Dプレゼンテーションアプリ「Immersive Pitch」シリーズ
     - NOT A HOTEL、日テレ、TBS、名古屋市+Canon 向けにデザイン・実装
 - Apple Vision Pro + 触覚フィードバックデバイス連携アプリのデザイン・一部実装
-- 個人作品
-    - NEWVIEW AWARDS 2024 ファイナリスト「時間の標本」（VisionOS）デザイン・実装
-    - TOKYO NODE XR HACKATHON 2025 ファイナリスト「Ambient Surface」（iOS）デザイン・実装
 - 使用技術
     - Unity
     - Swift / visionOS
@@ -96,6 +93,8 @@ Webサイト設計・実装（ECサイト、特設サイト）、CG映像制作�
 #### XR
 
 - 大阪・関西万博 パナソニックグループパビリオン「ノモの国」バーチャルワールド（iOS）モデリング
+- NEWVIEW AWARDS 2024 ファイナリスト「時間の標本」（VisionOS）デザイン・実装
+- TOKYO NODE XR HACKATHON 2025 ファイナリスト「Ambient Surface」（iOS）デザイン・実装
 
 #### 映像・CG制作
 
