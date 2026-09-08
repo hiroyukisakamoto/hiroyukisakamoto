@@ -183,7 +183,7 @@ Webサイト設計・実装（ECサイト、特設サイト）、CG映像制作�
 | 2024 | ホモ・コーデンス（山口情報芸術センターYCAM） |
 | 2024 | CIVIC CANVAS Vol.1（Shibuya Sakura Stage） |
 | 2020 | 山形ビエンナーレ2020 - 現代山形考（東北芸術工科大学） |
-| 2017 | 個展 "Site and Route"（TANA Gallery Bookshelf） |
+| 2018 | 個展 "Site and Route"（TANA Gallery Bookshelf） |
 | 2017 | SICF19（スパイラル） |
 
 ### メディア掲載
