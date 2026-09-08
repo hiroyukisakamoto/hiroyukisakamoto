@@ -69,14 +69,14 @@ XRスタートアップにて、空間UIコンセプト設計、UX・UI設計、
 
 - Apple Vision Proローンチタイトル「SunnyTune」のUX/UIデザイン
     - visionOSという新プラットフォームにおける3D空間UIのデザイン手法をゼロから構築
-- バーチャルショールーム「SMART CAMPUS tour」（VisionOS / イトーキ）実装
-- 3Dモデルビューワー「FlexiViewer」（VisionOS）デザイン・一部実装
+- バーチャルショールーム「SMART CAMPUS tour」（visionOS / イトーキ）実装
+- 3Dモデルビューワー「FlexiViewer」（visionOS）デザイン・一部実装
 - 3Dプレゼンテーションアプリ「Immersive Pitch」シリーズ
     - NOT A HOTEL、日テレ、TBS、名古屋市+Canon 向けにデザイン・実装
 - Apple Vision Pro + 触覚フィードバックデバイス連携アプリのデザイン・一部実装
 - 使用技術
     - Unity
-    - Swift / visionOS
+    - SwiftUI / RealityKit
     - Blender
     - Figma
 
@@ -93,7 +93,7 @@ Webサイト設計・実装（ECサイト、特設サイト）、CG映像制作�
 #### XR
 
 - 大阪・関西万博 パナソニックグループパビリオン「ノモの国」バーチャルワールド（iOS）モデリング
-- NEWVIEW AWARDS 2024 ファイナリスト「時間の標本」（VisionOS）デザイン・実装
+- NEWVIEW AWARDS 2024 ファイナリスト「時間の標本」（visionOS）デザイン・実装
 - TOKYO NODE XR HACKATHON 2025 ファイナリスト「Ambient Surface」（iOS）デザイン・実装
 
 #### 映像・CG制作
@@ -126,7 +126,7 @@ Webサイト設計・実装（ECサイト、特設サイト）、CG映像制作�
 
 ### 概要
 
-アパレル企業にて、自社ECサイト・ブランドサイトのUIデザイン・実装を担当。制作チームリーダー（7名）としてデザインから実装・運用まで統括。
+アパレル企業にて、自社ECサイト・ブランドサイトのUIデザイン・実装を担当。制作チーム（7名）リーダーとしてデザインから実装・運用まで統括。
 
 - 自社ECサイト内の商品紹介ページの企画・デザイン・実装・メンテナンス
     - シーズンNEW ARRIVAL、クリスマスギフト、自社開発商品、コラボレーション企画（lacoste、ogawa、AOKI、西川 等）
