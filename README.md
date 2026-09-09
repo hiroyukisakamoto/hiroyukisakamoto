@@ -34,7 +34,7 @@ Selected exhibitions: Finalist, NEWVIEW AWARDS 2024 (Shibuya PARCO); Finalist, T
 ## 現在行っている取り組み
 
 - Google Android XR Developer Catalyst Program 採択（2026）
-    - Android XR 向けアプリの開発に取り組んでいます
+    - Android XR 向けアプリの開発
 - XR / 空間コンピューティング領域でのデザイン・開発
     - Apple Vision Pro、Meta Quest、iOS向けアプリ
     - 体験設計からプロトタイピング、実装まで一貫
