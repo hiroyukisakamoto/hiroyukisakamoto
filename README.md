@@ -40,7 +40,7 @@ Selected exhibitions: Finalist, NEWVIEW AWARDS 2024 (Shibuya PARCO); Finalist, T
     - 体験設計からプロトタイピング、実装まで一貫
 - 個人制作・展示活動
     - TOKYO NODE XR HACKATHON 2025 ファイナリスト「Ambient Surface」
-    - NEWVIEW AWARDS 2024 ファイナリスト「時間の標本」
+    - NEWVIEW AWARDS 2024 ファイナリスト・AIxR CREATIVE AWARD 2025 個人部門 一次審査通過「時間の標本」
 - 執筆・発信
     - 空間コンピューティングやメディア論に関するnote記事
 
@@ -96,7 +96,7 @@ Webサイト設計・実装（ECサイト、特設サイト）、CG映像制作�
 #### XR
 
 - 大阪・関西万博 パナソニックグループパビリオン「ノモの国」バーチャルワールド（iOS）モデリング
-- NEWVIEW AWARDS 2024 ファイナリスト「時間の標本」（visionOS）デザイン・実装
+- NEWVIEW AWARDS 2024 ファイナリスト・AIxR CREATIVE AWARD 2025 個人部門 一次審査通過「時間の標本」（visionOS）デザイン・実装
 - TOKYO NODE XR HACKATHON 2025 ファイナリスト「Ambient Surface」（iOS）デザイン・実装
 
 #### 映像・CG制作
@@ -170,6 +170,7 @@ Webサイト設計・実装（ECサイト、特設サイト）、CG映像制作�
 | --- | --- |
 | 2026 | Google Android XR Developer Catalyst Program 採択 |
 | 2025 | TOKYO NODE XR HACKATHON ファイナリスト |
+| 2025 | AIxR CREATIVE AWARD 2025 個人部門 一次審査通過 |
 | 2024 | NEWVIEW AWARDS ファイナリスト |
 | 2013 | 景観デザインワークショップ 優秀賞 |
 | 2010 | 中村好文／家具デザイン塾 金賞（好文賞） |
