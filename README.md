@@ -2,7 +2,7 @@
 
 **坂本 大幸｜Designer**
 
-北海道生まれ。東京藝術大学デザイン科修了、School for Poetic Computation alumni。内装設計施工 / Web制作を経て、XR領域に活動の場を移す。「空間を設計する」を軸に、フィジカルとデジタルの領域を横断しながら、設計と実装の双方を担う。
+北海道生まれ。東京藝術大学大学院 デザイン専攻修了、School for Poetic Computation alumni。内装設計施工 / Web制作を経て、XR領域に活動の場を移す。「空間を設計する」を軸に、フィジカルとデジタルの領域を横断しながら、設計と実装の双方を担う。
 
 主な展示にTOKYO NODE "XR HACKATHON" supported by Niantic Spatial ファイナリスト（虎ノ門ヒルズ）、NEWVIEW AWARDS 2024 ファイナリスト（渋谷PARCO）、山形ビエンナーレ2020 - 現代山形考（東北芸術工科大学）、個展 "Site and Route"（TANA Gallery Bookshelf）など。
 
