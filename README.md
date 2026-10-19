@@ -1,6 +1,6 @@
 # プロフィール
 
-**坂本 大幸｜Design Engineer**
+**坂本 大幸｜Designer**
 
 北海道生まれ。東京藝術大学デザイン科修了、School for Poetic Computation alumni。内装設計施工 / Web制作を経て、XR領域に活動の場を移す。「空間を設計する」を軸に、フィジカルとデジタルの領域を横断しながら、設計と実装の双方を担う。
 
@@ -8,7 +8,7 @@
 
 ---
 
-Hiroyuki Sakamoto | Design Engineer
+Hiroyuki Sakamoto | Designer
 
 Born in Hokkaido. Completed the Design program at Tokyo University of the Arts; alumnus of the School for Poetic Computation. After working in interior design/build and web production, shifted focus to XR.
 
